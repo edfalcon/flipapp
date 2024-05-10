@@ -44,3 +44,4 @@ You will create a step-by-step process outlining the details of creating the fil
 You are going to provide the development workflow in concise bullet form on how to prompt yourself to write the code that will follow the workflow of flashinfo.
 
 
+//line 47
