@@ -44,6 +44,7 @@
 		4BF52A062BEDC22100E072DC /* flipappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flipappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BF52A0A2BEDC22100E072DC /* flipappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flipappUITests.swift; sourceTree = "<group>"; };
 		4BF52A0C2BEDC22100E072DC /* flipappUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flipappUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4BF52A192BEDC41E00E072DC /* flipapp-prompt.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "flipapp-prompt.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 				4BF529F12BEDC22000E072DC /* ContentView.swift */,
 				4BF529F32BEDC22100E072DC /* Assets.xcassets */,
 				4BF529F52BEDC22100E072DC /* Preview Content */,
+				4BF52A192BEDC41E00E072DC /* flipapp-prompt.md */,
 			);
 			path = flipapp;
 			sourceTree = "<group>";
