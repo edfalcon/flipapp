@@ -72,9 +72,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4B15A65D2BF7043200F45BEB /* FllipAppNotes */ = {
+			isa = PBXGroup;
+			children = (
+				4BF52A192BEDC41E00E072DC /* flipapp-prompt.md */,
+			);
+			path = FllipAppNotes;
+			sourceTree = "<group>";
+		};
 		4BF529E32BEDC22000E072DC = {
 			isa = PBXGroup;
 			children = (
+				4B15A65D2BF7043200F45BEB /* FllipAppNotes */,
 				4BF529EE2BEDC22000E072DC /* flipapp */,
 				4BF529FF2BEDC22100E072DC /* flipappTests */,
 				4BF52A092BEDC22100E072DC /* flipappUITests */,
@@ -99,7 +108,6 @@
 				4BF529F12BEDC22000E072DC /* ContentView.swift */,
 				4BF529F32BEDC22100E072DC /* Assets.xcassets */,
 				4BF529F52BEDC22100E072DC /* Preview Content */,
-				4BF52A192BEDC41E00E072DC /* flipapp-prompt.md */,
 			);
 			path = flipapp;
 			sourceTree = "<group>";
