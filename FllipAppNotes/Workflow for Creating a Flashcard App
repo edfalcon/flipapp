@@ -1,0 +1,55 @@
+Workflow for Creating a Flashcard App
+1. Initial Setup
+Define Project:
+Open XCode and create a new iOS project named "FlipApp".
+Select "App" under the "iOS" tab and click "Next".
+Enter "FlipApp" as the Product Name, choose Swift as the language, and SwiftUI as the user interface.
+2. Core Data Setup
+Enable Core Data:
+In the project setup, check the "Use Core Data" option.
+XCode will create a default DataModel file for Core Data.
+3. UI Design
+Main Screen:
+Create a list view to display flashcard decks.
+Add a button to create a new deck.
+Deck Screen:
+Display flashcards in the selected deck.
+Add buttons for "Add Card," "Shuffle," and "Start Study Session."
+Study Session Screen:
+Display flashcard question.
+Add a button to flip the card and reveal the answer.
+Add buttons for "Correct" and "Incorrect" responses.
+4. Core Data Integration
+Data Model:
+Define entities for "Deck" and "Flashcard."
+"Deck" entity with attributes: name (String), creationDate (Date).
+"Flashcard" entity with attributes: question (String), answer (String), isKnown (Boolean), lastReviewed (Date).
+Establish a one-to-many relationship between "Deck" and "Flashcard."
+5. Implementing Features
+Create Deck:
+Implement functionality to add a new deck.
+Save deck details to Core Data.
+Add Flashcard:
+Implement functionality to add a new flashcard to a deck.
+Save flashcard details to Core Data.
+Shuffle Deck:
+Implement shuffle functionality for the deck.
+Study Session:
+Implement the study session with the ability to flip flashcards and mark as "Correct" or "Incorrect."
+Update flashcard status in Core Data.
+6. Spaced Repetition Logic
+Review Scheduling:
+Implement logic to schedule reviews based on spaced repetition algorithms.
+Update the lastReviewed attribute and schedule next review.
+7. Tracking Progress
+Track Performance:
+Implement functionality to track user performance.
+Display statistics on well-known and weak areas.
+8. Testing
+Test on XCode Emulator:
+Use the iPhone 15 Pro emulator to test the app.
+Ensure all functionalities work as expected and data is correctly stored and retrieved using Core Data.
+9. Debugging
+Debugging and Optimization:
+Debug any issues that arise during testing.
+Optimize performance and user experience.
