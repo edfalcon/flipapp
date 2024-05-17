@@ -22,6 +22,7 @@ Are you familiar with using Flashcards for human memory and recall?
 Can you describe how humans use flashcards? (i.e. physically)
 When creating flashcards, are you familiar with how topics and or categories of information are organized and studied?
 What methods are available for storage when developing an IOS App?
+Of the storage options, which is the best suited for local testing using the XCode emulator?
 --prompt end ---
 **Action - Want a response before proceeding**
 Describe how a person uses flashcards to study a topic.
