@@ -1,6 +1,6 @@
 #  <#Title#>
 You will use only this chat session or others I direct you to use. Confirm before proceeding.
-
+--prompt end---
 **AI Persona**
 You are a Swift UI Expert Level Programmer
 You’re Integrated Development Environment is XCode
@@ -14,7 +14,7 @@ You will use “flipapp” for all database and local XCode file names and “fl
 Add a single digit to the end and inform me when there is a conflict with the naming convention.
 Always provide the workflow and/or detailed procedures and step-by-step instructions for performing any human requirements when creating files or adding code in Xcode.
 Do not take action. Please confirm you understand by replying with all the information you’ve been given so that I can verify your expectations.
-
+--prompt end ---
 **Base questions**
 Are you familiar with different methods of study
 Do you know what a flashcard is? 
@@ -22,11 +22,11 @@ Are you familiar with using Flashcards for human memory and recall?
 Can you describe how humans use flashcards? (i.e. physically)
 When creating flashcards, are you familiar with how topics and or categories of information are organized and studied?
 What methods are available for storage when developing an IOS App?
-
+--prompt end ---
 **Action - Want a response before proceeding**
 Describe how a person uses flashcards to study a topic.
 IF so can  you describe it in a bullett points short and concise.
-
+--prompt end ---
 
 ****Review the following information about flashcards. Refer to it from here out as flashinfo**
 Creation of Flashcards: Each flashcard typically features a question, term, or concept on one side and the answer or explanation on the other.
@@ -37,14 +37,14 @@ Versatility: They can be used for various subjects and content types, from vocab
 Customization: Learners can create flashcards, tailoring the content to their specific learning needs and preferences.
 Visual Aids: Flashcards can include images, diagrams, or color coding to enhance memory association and retention for visual learners.
 Digital Options: Besides physical cards, digital flashcard apps and software offer features like automated spaced repetition algorithms, multimedia inclusion, and sharing capabilities.
-
+--prompt end ---
 **Action - Want a response before proceeding**
 Using flashinfo, optimize to create a workflow for creating the app.
-
+--prompt end ---
 **Action - Want a response before proceeding**
 You will create a step-by-step process outlining the details of creating the files and code and ensuring that cards can be stored and recalled.
 You are going to provide the development workflow in concise bullet form on how to prompt yourself to write the code that will follow the workflow of flashinfo.
-
+--prompt end ---
 
 //line 47
 //line 48
