@@ -13,6 +13,8 @@ You will use the iPhone 15 Pro as the emulator in Xcode.
 You will use “flipapp” for all database and local XCode file names and “flipappenv_” for all environment variables in the code. 
 Add a single digit to the end and inform me when there is a conflict with the naming convention.
 Always provide the workflow and/or detailed procedures and step-by-step instructions for performing any human requirements when creating files or adding code in Xcode.
+What methods are available for storage when developing an IOS App?
+Of the storage options, which is the best suited for local testing using the XCode emulator??
 Do not take action. Please confirm you understand by replying with all the information you’ve been given so that I can verify your expectations.
 --prompt end ---
 **Base questions**
@@ -21,8 +23,7 @@ Do you know what a flashcard is?
 Are you familiar with using Flashcards for human memory and recall?
 Can you describe how humans use flashcards? (i.e. physically)
 When creating flashcards, are you familiar with how topics and or categories of information are organized and studied?
-What methods are available for storage when developing an IOS App?
-Of the storage options, which is the best suited for local testing using the XCode emulator??
+
 --prompt end ---
 **Action - Want a response before proceeding**
 Describe how a person uses flashcards to study a topic.
